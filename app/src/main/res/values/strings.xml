@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Training</string>
+    <array name="gender">
+        <item>Variant 1</item>
+        <item>Variant 2</item>
+        <item>Others</item>
+    </array>
+</resources>
